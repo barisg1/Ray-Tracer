@@ -1,0 +1,32 @@
+{
+  "renderSettings": {
+    "xres": 512,
+    "yres": 512,
+    "samples": 50,
+    "num_threads": 12
+  },
+  "spheres": [
+    
+  ],
+  "objFile":{
+    "path": "objects/CornellManifold.obj",
+    "RotX": 0,
+    "RotY": 0,
+    "RotZ": 3.14,
+    "Scale": 0.3,
+    "TranslateX": 0,
+    "TranslateY": 0,
+    "TranslateZ": 0
+  },
+  "camera": {
+    "posX": 0.0,
+    "posY": -7.0,
+    "posZ": 22.0,
+    "focalLength": 1.0
+  },
+  "directionalLight": {
+    "posX": -0.5,
+    "posY":  -0.5, 
+    "posZ": 1
+  }
+}
